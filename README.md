@@ -1,4 +1,4 @@
-# centroidChecker
+# Centroid Checker
 
 This script reads the csv file "location_codes_final.csv".
 Each line in the csv file contains a location code with its centroid coordinates and other information.
