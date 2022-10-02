@@ -6,4 +6,4 @@ It checks if the centroid is contained inside the boundaries of the relevant geo
 If the boundary does contain the centroid, then it writes the file path of the geoJson to the line in a new column in the output csv file.
 Also writes the location_code into the base of the matching geoJson as "id".
 
-The boundary folder and location_codes_final.csv should be placed in the same folder as the script. 
+The boundary folder and location_codes_final.csv file should be placed in the same folder as the script. 
